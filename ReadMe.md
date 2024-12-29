@@ -9,11 +9,13 @@
 # 💻 Tech Stack:
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![C++]
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjidh090&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanjidh090&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidh090&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sanjidh090&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjidh090&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sanjidh090&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📫 Contact Me:
 Feel free to reach out:
