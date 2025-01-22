@@ -13,9 +13,11 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanjidh090&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjidh090&theme=shadow_blue&hide_border=false)<br/>
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sanjidh090&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidh090&theme=shadow_blue&hide_border=false" alt="GitHub Streak" width="400px" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sanjidh090&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Most Used Languages" width="400px" />
+</div>
 
 ---
 
