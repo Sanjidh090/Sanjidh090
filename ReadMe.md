@@ -13,31 +13,22 @@
 ---
 
 # 📊 GitHub Stats:
+
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-    
-    <!-- Overview Card -->
-    <div style="border: 1px solid #444; border-radius: 10px; padding: 20px; width: 350px; background: #1c1c1c;">
-      <h3 align="center" style="color: #00aaff;">GitHub Overview</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%">
-    </div>
-    
-    <!-- Streak Card -->
-    <div style="border: 1px solid #444; border-radius: 10px; padding: 20px; width: 350px; background: #1c1c1c;">
-      <h3 align="center" style="color: #ffaa00;">Current Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidh090&theme=shadow_blue&hide_border=true" alt="GitHub Streak" width="100%">
-    </div>
-    
-    <!-- Languages Card -->
-    <div style="border: 1px solid #444; border-radius: 10px; padding: 20px; width: 730px; background: #1c1c1c;">
-      <h3 align="center" style="color: #55ff55;">Most Used Languages</h3>
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sanjidh090&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8" alt="Most Used Languages" width="100%">
-    </div>
-    
-  </div>
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+  
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidh090&theme=shadow_blue&hide_border=true" alt="GitHub Streak" width="45%" />
+  
 </div>
 
----
+<!-- Most Used Languages Card -->
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sanjidh090&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8" alt="Most Used Languages" width="70%" />
+</div>
+
 
 # 🛠️ Technologies I Use:
 <p align="center">
