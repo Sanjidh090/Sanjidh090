@@ -20,11 +20,11 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Github"/>&nbsp;<i><b>Github Activeness</b></i></p>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sanjid's Github Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidh090&theme=shadow_blue&hide_border=true" width="350px" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidh090&theme=shadow_blue&hide_border=true" width="350px" /> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjidh090&show_icons=true&theme=dark&locale=en&layout=compact" alt="Sanjidh090" />
 </div>
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidh090&theme=algolia" alt="Sanjidh090"  /></p>
 ---
 
 
