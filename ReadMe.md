@@ -40,7 +40,7 @@
 
 ## 📫 Contact Me:
 - **Email**: [sanjid9657@gmail.com](mailto:sanjid9657@gmail.com)
-- **LinkedIn**: [Visit my LinkedIn](https://linkedin.com/in/sanjidh090)
+- **LinkedIn**: [Find me on LinkedIn](https://linkedin.com/in/sanjidh090)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
