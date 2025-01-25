@@ -26,7 +26,7 @@
 
 ## Technologies I Use 👨🏻‍💻
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,github,py,vscode,arduino,html,js,linux,git,devto,notion,discord&perline=14" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,github,py,vscode,git,devto,notion,discord,arduino,html,js,linux&perline=14" alt="Tech Stack Icons" />
 </p>
 
 ---
