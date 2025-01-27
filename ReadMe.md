@@ -20,7 +20,7 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Github"/>&nbsp;<i><b>Github Activeness</b></i></p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&theme=radical" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&layout=compact" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&layout=compact&theme=dark" >
 </div>
 
 
