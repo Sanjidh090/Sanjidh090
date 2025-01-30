@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 ## 📊 GitHub Stats:
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Github"/>&nbsp;<i><b>Github Activeness</b></i></p>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Github"/>&nbsp;<i><b>Github Activeness</b></i></p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&layout=compact&theme=radical" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&layout=compact&theme=radical" >
