@@ -22,6 +22,7 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&layout=compact&theme=radical" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=radical&layout=compact" >
+<img src="https://streak-stats.demolab.com?user=Sanjidh090&theme=dark&hide_border=true" alt="Sanjidh090's GitHub Stats" >
 </div>
 
 
