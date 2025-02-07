@@ -9,6 +9,7 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=30&pause=1000&color=45FF00EC&multiline=true&width=435&lines=Hi+!+I+am++Sanjid+Hasan;I+am+Exploring+Artificial+Intelligence+and+Machine+Learning)](https://git.io/typing-svg)
 ## 💫 About Me:
 - 🌱 I’m currently learning **Python**
 - 🎓 Background in **Electrical and Electronic Engineering**
