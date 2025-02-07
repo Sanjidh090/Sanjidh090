@@ -22,7 +22,9 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&layout=compact&theme=radical" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=radical&layout=compact" >
-[![GitHub Streak](https://github-readme-streak-stats-gamma-lovat.vercel.app?user=Sanjidh090&theme=carbonfox&hide_border=true&border_radius=5&short_numbers=true&card_width=494)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-streak-stats-gamma-lovat.vercel.app?user=Sanjidh090&theme=carbonfox&hide_border=true&border_radius=5&short_numbers=true&card_width=494" >
+
+
 
 
 ## Tech stack 👨🏻‍💻
