@@ -1,9 +1,14 @@
 name: generate animation
 
+permissions:
+  contents: write  # Grants write access to repository contents (needed for pushing changes)
+  workflows: write  # Grants permission to trigger workflows
+  actions: read  # Grants read access to actions
+
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:  # Allow manual triggering
   push:
     branches:
       - main
@@ -22,12 +27,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Reference the secret you created
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Use the GitHub token for authentication
 
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output  # The branch where the generated SVG will be pushed
+          build_dir: dist        # Directory containing the generated SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Reference the secret you created
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Use the GitHub token for authentication
