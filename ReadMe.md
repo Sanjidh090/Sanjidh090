@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Github"/>&nbsp;<i><b>Github Activeness</b></i></p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&layout=compact&theme=transparent" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=transparent&layout=pie" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=transparent&hide_progress=true" >
 <img align="center" src="https://github-readme-streak-stats-gamma-lovat.vercel.app?user=Sanjidh090&theme=transparent&hide_border=true&border_radius=5&short_numbers=true&card_width=494t)](https://git.io/streak-stats)" >
 
 
