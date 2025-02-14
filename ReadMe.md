@@ -3,9 +3,14 @@
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=Sanjidh090&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
-<p align = "center">
-	<img src = "https://github.com/Sanjidh090/Sanjidh090/blob/output/github-contribution-grid-snake-dark.svg?" alt = "Snake Game"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjidh090/Sanjidh090/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjidh090/Sanjidh090/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanjidh090/Sanjidh090/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
 
 <div align="center">
 
