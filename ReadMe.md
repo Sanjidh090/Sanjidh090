@@ -3,31 +3,23 @@
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=Sanjidh090&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjidh090/your-repository/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjidh090/your-repository/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanjidh090/your-repository/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 
 
 <div align="center">
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently exploring **Artificial Intelligence** and **Machine Learning**
 - 🎓 Background in **Electrical and Electronic Engineering**
-- 📚 Exploring **Artificial Intelligence** and **Machine Learning**
-- 🌟 Fun fact: I love reading everything from books to tissue papers! Haha ^_-
+- 🌟 **Fun fact**: I love reading everything from books to tissue papers! Haha **^_-**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 ## 📊 GitHub Stats:
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Github"/>&nbsp;<i><b>Github Activeness</b></i></p>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&layout=compact&theme=transparent" width="500" height="200">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=transparent&hide_progress=true" width="500" height="200">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&layout=compact&theme=buefy-dark&hide_border=true" width="500" height="200">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=buefy-dark&hide_border=true&hide_progress=true" width="500" height="200">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beige-pi.vercel.app?user=Sanjidh090&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
