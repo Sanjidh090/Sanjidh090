@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats:
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Github"/>&nbsp;<i><b>Github Activeness</b></i></p>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&layout=compact&theme=transparent" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=transparent&hide_progress=true" >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&layout=compact&theme=transparent" width="500" height="200">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=transparent&hide_progress=true" width="500" height="200">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beige-pi.vercel.app?user=Sanjidh090&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
