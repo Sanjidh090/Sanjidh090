@@ -38,16 +38,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
-## 📫 Contact Me:
-- **Email**: [sanjid9657@gmail.com](mailto:sanjid9657@gmail.com)
-- **LinkedIn**: [Find me on LinkedIn](https://linkedin.com/in/sanjidh090)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 ## 🌐 Connect with Me:
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjidh090)  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjidh090)  
 [![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sanjidh090)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%23D44638.svg?logo=Gmail&logoColor=white)](mailto:sanjid9657@gmail.com)
+
 
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
