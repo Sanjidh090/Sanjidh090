@@ -28,7 +28,7 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&layout=compact&theme=transparent" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&theme=transparent&hide_progress=true" >
-<img align="center" src="https://github-readme-streak-stats-gamma-lovat.vercel.app?user=Sanjidh090&theme=transparent&hide_border=true&border_radius=0&short_numbers=true&card_width=494t)](https://git.io/streak-stats)" >
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beige-pi.vercel.app?user=Sanjidh090&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
 
