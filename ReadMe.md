@@ -22,7 +22,6 @@
 
 
 
-
 ## Tech stack 👨🏻‍💻
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,github,py,vscode,git,devto,notion,discord,arduino,html,js,linux&perline=14" alt="Tech Stack Icons" />
