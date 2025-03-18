@@ -1,4 +1,3 @@
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=Sanjidh090&style=plastic&color=blueviolet" alt = "Profile Views"/>
@@ -27,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,github,py,vscode,git,devto,notion,discord,arduino,html,js,linux&perline=14" alt="Tech Stack Icons" />
 </p>
 
----
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanjidh090&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" width="84%" />
