@@ -7,7 +7,7 @@
 
 ## 💫 About Me:
 - 🌱 I’m currently exploring **Artificial Intelligence** and **Machine Learning**
-- 🎓 Background in **Electrical and Electronic Engineering**
+- 🎓 Background in **Electrical and Electronic Engineering(EEE)**
 - 🌟 **Fun fact**: I love reading everything from books to tissue papers! Haha **^_-**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
