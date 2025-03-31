@@ -10,7 +10,7 @@
 - 🎓 Background in **Electrical and Electronic Engineering(EEE)**
 - 🌟 **Fun fact**: I love reading everything from books to tissue papers! Haha **^_-**
 
-#Eid Mubarak ❤️‍🩹 
+##Eid Mubarak ❤️‍🩹 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 ## 📊 GitHub Stats:
