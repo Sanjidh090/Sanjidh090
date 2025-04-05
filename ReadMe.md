@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=Sanjidh090&style=plastic&color=blueviolet" alt = "Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Sanjidh090&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/Sanjidh090?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Sanjidh090?affiliations=OWNER%2CCOLLABORATOR&style=social)
 </p>
 
 <div align="center">
