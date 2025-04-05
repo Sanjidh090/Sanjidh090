@@ -1,11 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-<p align = "center">
-![Profile Views](https://komarev.com/ghpvc/?username=Sanjidh090&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/Sanjidh090?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Sanjidh090?affiliations=OWNER%2CCOLLABORATOR&style=social)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sanjidh090&color=blueviolet" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/Sanjidh090?label=Follow&style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/stars/Sanjidh090?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars">
 </p>
-
 <div align="center">
+</div>
+
 
 ## 💫 About Me:
 - 🌱 I’m currently exploring **Artificial Intelligence** and **Machine Learning**
