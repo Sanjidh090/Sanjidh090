@@ -35,7 +35,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-
+<img src="https://raw.githubusercontent.com/Sanjid090/Sanjidh090/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Connect with Me:
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjidh090)  
