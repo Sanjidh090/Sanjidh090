@@ -38,7 +38,7 @@
 
 <div align="center">
   
-### ✨ Check out my interactive portfolio website!
+### ✨ Check out my  portfolio website!
 
 **🔗 [sanjidh090.github.io/Sanjidh090](https://sanjidh090.github.io/Sanjidh090/)**
 
@@ -48,35 +48,6 @@
 
 </div>
 
-### 🎨 Website Features:
-- 🎯 **Modern & Responsive Design** - Looks great on all devices
-- 🌙 **Dark Theme** - Easy on the eyes with beautiful gradient accents
-- ⚡ **Smooth Animations** - Engaging user experience with CSS animations
-- 📊 **GitHub Stats Integration** - Real-time stats from my GitHub profile
-- 📱 **Mobile Friendly** - Fully responsive with hamburger menu navigation
-- 🔗 **Social Links** - Easy access to all my social media profiles
-- 🎓 **About Section** - Learn more about my background and interests
-- 💻 **Tech Stack Showcase** - Visual display of technologies I work with
-
-### 📂 Repository Structure:
-```
-📦 Sanjidh090
- ┣ 📜 index.html        # Main website file
- ┣ 📜 styles.css        # Styling and responsive design
- ┣ 📜 script.js         # Interactive features
- ┣ 📜 ReadMe.md         # This file
- ┗ 📜 WEBSITE_README.md # Detailed website documentation
-```
-
-### 🚀 Quick Start:
-Want to use this template for your own portfolio? 
-1. Fork this repository
-2. Update the content in `index.html` with your information
-3. Customize colors in `styles.css`
-4. Enable GitHub Pages in repository settings
-5. Your website will be live at `https://yourusername.github.io/yourrepo/`
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 ## 📊 GitHub Stats:
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Github"/>&nbsp;<i><b>Github Activeness</b></i></p>
