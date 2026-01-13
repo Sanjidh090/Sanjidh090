@@ -51,7 +51,7 @@ me.say_hi()
 
 | 🎯 Achievement | 📊 Details | 🔗 Proof |
 |:--------------|:-----------|:---------|
-| **Kaggle Expert** | (Dataset and Notebook Expert) | [✓ Verified](https://www.kaggle.com/sanjidh090) |
+| **Kaggle Expert** | Dataset and Notebook Expert | [✓ Verified](https://www.kaggle.com/sanjidh090) |
 | **Google Maps Level 7 Local Guide** | 1,000+ contributions preserving digital heritage | [✓ Verified](https://maps.google.com/localguides/profile) |
 | **Former Research Assistant @ Hackules Inc.** | Elite software, AI & cybersecurity solutions | [✓ Verified](https://hackules.com/) |
 | **Open Source Contributor** | Facebook Research (fairseq2), Omnilingual ASR | [✓ Verified](https://github.com/Sanjidh090) |
