@@ -21,10 +21,6 @@
 </p>
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjidh090&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" width="84%" />
-</div>
-
 <img src="https://raw.githubusercontent.com/Sanjidh090/Sanjidh090/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Connect with Me:
