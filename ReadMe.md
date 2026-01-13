@@ -356,118 +356,12 @@ A multidisciplinary tech-focused student group at KUET, pushing boundaries acros
 
 > *"I view my profile as a digital archive, preserving the vibes and cultures of locations that have been removed or closed. These photos are relics on maps - memories that would otherwise be lost to time."*
 
-### 🌍 Impact Stories
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏗️ Data Integrity Activism
-When the **Eighth Bangladesh-China Friendship Bridge** was erroneously deleted from Google Maps, I escalated through the support hierarchy, debating with Silver Experts until a Diamond Expert restored the location. **Civic duty in action.**
-
-</td>
-<td width="50%">
-
 #### 📷 Geospatial Archivist
 Capturing photos of businesses and locations before they disappear. From quiet corners of KUET to vibrant streets of Narsingdi and Khulna - preserving local history one contribution at a time.
 
 </td>
 </tr>
 </table>
-
-🔗 [View Contributions](https://www.localguidesconnect.com/t/relics-on-maps-photos-of-removed-locations/475263)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Professional Experience
-
-<div align="center">
-
-### 🚀 Hackules Inc. - Software Engineer
-
-[![Hackules Inc.](https://img.shields.io/badge/Hackules%20Inc.-Elite%20Software%20%7C%20AI%20%7C%20Cybersecurity-00D9FF?style=for-the-badge)](https://hackules.com/)
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-**Role**: Software Engineer  
-**Focus**: AI Solutions, Cybersecurity, Software Development  
-**Skills Applied**:
-- Artificial Intelligence & Machine Learning
-- Full-Stack Development
-- System Architecture
-- Security Implementation
-
-</td>
-<td width="50%">
-
-**Impact**:
-- ✅ Delivering industrial-grade output
-- ✅ Working with cutting-edge tech stack
-- ✅ Professional software engineering practices
-- ✅ Team collaboration & code review
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 The "Excellence" Thesis
-
-<div align="center">
-
-### 🌉 Bridging Hardware & Software - The T-Shaped Engineer
-
-</div>
-
-```
-        ┌─────────────────────────────────────────────────────────┐
-        │  Software Engineering │ AI/ML │ Data Science │ Full-Stack │
-        └─────────────────────────────────────────────────────────┘
-                                    │
-                        ┌───────────┴───────────┐
-                        │   Electrical & EE     │
-                        │  Signal Processing    │
-                        │   Control Theory      │
-                        │  Embedded Systems     │
-                        │   Hardware Design     │
-                        └───────────────────────┘
-```
-
-### 🎓 The Strategic Value Proposition
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🧠 Theoretical Foundation
-- **Signal Processing** → Neural Network Convolutions
-- **Control Theory** → Reinforcement Learning
-- **Linear Algebra** → Deep Learning Mathematics
-- **Physics & Hardware** → Edge AI Optimization
-
-</td>
-<td width="50%">
-
-#### 🚀 Applied Resourcefulness
-- **High-Level**: Generative AI, LLM Fine-tuning
-- **Low-Level**: STM32, ROS2, Embedded Systems
-- **Interdisciplinary**: Cyber-Physical Systems, Robotics
-- **Pedagogical**: Deconstruct, Optimize, Teach
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**Unique Positioning**: Operating at the intersection of conflicting domains - where software meets silicon, where theory meets practice, where teaching meets engineering.
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -608,7 +502,7 @@ const currentFocus = {
 ```
 
 ### 🌱 Growth Mindset
-Despite objective excellence (Hackules engineer, Top 10 Datathon finisher, Kaggle Benchmark member), I maintain a healthy "never satisfied" mindset that drives continuous self-improvement. Always learning, always building, always teaching.
+Despite objective excellence (Top 10 Datathon finisher, Kaggle Expert and Benchmark member), I maintain a healthy "never satisfied" mindset that drives continuous self-improvement. Always learning, always building, always teaching.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
