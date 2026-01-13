@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=SANJID+HASAN" alt="Name" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9745F5&center=true&vCenter=true&width=800&lines=Electrical+%26+Electronic+Engineer+%E2%9A%A1;AI+%2F+ML+Engineer+%F0%9F%A4%96;Software+Engineer+%40+Hackules+Inc.;Kaggle+Benchmark+Pre-launch+Member+%F0%9F%8F%86;Google+Maps+Level+7+Local+Guide+%F0%9F%97%BA%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%BB;Technical+Writer+%26+Educator+%E2%9C%8D%EF%B8%8F;Bridging+Hardware+%26+Software+%F0%9F%8C%89" alt="Titles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9745F5&center=true&vCenter=true&width=800&lines=Electrical+%26+Electronic+Engineer+%E2%9A%A1;AI+%2F+ML+Engineer+%F0%9F%A4%96;Research+Assistant+%40+Hackules+Inc.;Kaggle+Benchmark+Pre-launch+Member+%F0%9F%8F%86;Google+Maps+Level+7+Local+Guide+%F0%9F%97%BA%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%BB;Technical+Writer+%26+Educator+%E2%9C%8D%EF%B8%8F;Bridging+Hardware+%26+Software+%F0%9F%8C%89" alt="Titles" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 class SanjidHasan:
     def __init__(self):
         self.username = "Sanjidh090"
-        self.role = "Software Engineer @ Hackules Inc."
+        self.role = "Expert @ Kaggle"
         self.education = {
             "degree": "B.Sc. in Electrical & Electronic Engineering",
             "institution": "Khulna University of Engineering & Technology (KUET)",
@@ -54,7 +54,7 @@ me.say_hi()
 |:--------------|:-----------|:---------|
 | **Kaggle Benchmarks Pre-launch (External)** | Invite-only group by Google for trusted testers & power users | [✓ Verified](https://www.kaggle.com/sanjidh090) |
 | **Google Maps Level 7 Local Guide** | 1,000+ contributions preserving digital heritage | [✓ Verified](https://maps.google.com/localguides/profile) |
-| **Software Engineer @ Hackules Inc.** | Elite software, AI & cybersecurity solutions | [✓ Verified](https://hackules.com/) |
+| **Former Research Assistant @ Hackules Inc.** | Elite software, AI & cybersecurity solutions | [✓ Verified](https://hackules.com/) |
 | **Open Source Contributor** | Facebook Research (fairseq2), Omnilingual ASR | [✓ Verified](https://github.com/Sanjidh090) |
 | **Team Frozen Voltage - Founder** | Leading multidisciplinary tech team at KUET | [✓ Verified](https://github.com/Sanjidh090) |
 
