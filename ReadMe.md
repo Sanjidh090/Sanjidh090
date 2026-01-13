@@ -70,9 +70,9 @@ me.say_hi()
 | 🏆 Competition | 👥 Team | 🥇 Rank | 📈 Metrics | 📅 Year |
 |:--------------|:--------|:--------|:-----------|:--------|
 | **First Byte Datathon 2025** | Team Frozen Voltage | **8th Place** | Nationwide Competition | 2025 |
-| **NWU CSE Fest Datathon** | Team Frozen Voltage | **4th Place** | 92% Cohen Kappa | 2025 |
-| **CUET CSE FEST 2025** | Solo | **Top 60** | 80% F1 Score (Political Meme Detection) | 2025 |
-| **Shobdotori Competition** | Solo | **Top Performer** | 84% Score (Dialect Translation - ASR) | 2025 |
+| **NWU CSE Fest Datathon** | Team Maverics | **4th Place** | 92% Cohen Kappa | 2025 |
+| **CUET CSE FEST 2025** | Team Envisage | **Top 60** | 80% F1 Score (Political Meme Detection) | 2025 |
+| **Shobdotori Competition** | Team Maverics | **Top Performer** | 84% Score (Dialect Translation - ASR) | 2025 |
 | **AgriYield 2025** | Solo | **Active** | Crop Yield Prediction (Soil + Weather) | 2025 |
 | **SciBlitz 1.0** | Team Frozen Voltage | **Presented** | Biomarker-Responsive BAMs | 2024 |
 | **Legends of Logic** | Team Frozen Voltage | **3rd & 5th** | Math History Chronicles | 2024 |
