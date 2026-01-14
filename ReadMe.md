@@ -53,7 +53,7 @@ me.say_hi()
 |:--------------|:-----------|:---------|
 | **Kaggle Expert** | Dataset and Notebook Expert | [✓ Verified](https://www.kaggle.com/sanjidh090) |
 | **Google Maps Level 7 Local Guide** | 1,000+ contributions preserving digital heritage | [✓ Verified](https://maps.google.com/localguides/profile) |
-| **Former Research Assistant @ Hackules Inc.** | Elite software, AI & cybersecurity solutions | [✓ Verified](https://hackules.com/) |
+| **Former Research Assistant @ Hackules Inc.** | Computer Vision Research | [✓ Verified](https://hackules.com/) |
 | **Open Source Contributor** | Facebook Research (fairseq2), Omnilingual ASR | [✓ Verified](https://github.com/Sanjidh090) |
 | **Team Frozen Voltage - Founder** | Leading multidisciplinary tech team at KUET | [✓ Verified](https://github.com/Sanjidh090) |
 
@@ -103,13 +103,7 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚡ Embedded Systems & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -118,7 +112,6 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
@@ -137,10 +130,6 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=9745F5&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjidh090&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FFA500&currStreakLabel=00D9FF" width="49%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjidh090&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjidh090&theme=tokyonight&utcOffset=6" width="49%" alt="Productive Time"/>
 
 </div>
