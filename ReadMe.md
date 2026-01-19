@@ -1,3 +1,5 @@
+*This readme file has a few issues caused by AI...But I will fix it and remove the exaggerations about me. I am keeping because it's kind of resourceful and the template looks quite complete*
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=SANJID+HASAN" alt="Name" />
