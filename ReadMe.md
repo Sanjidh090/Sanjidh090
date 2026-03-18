@@ -1,4 +1,4 @@
-*This readme file has a few issues caused by AI...But I will fix it and remove the exaggerations about me. I am keeping because it's kind of resourceful and the template looks quite complete*
+
 
 <div align="center">
 
@@ -32,10 +32,9 @@ class SanjidHasan:
             "Artificial Intelligence & Machine Learning",
             "Deep Learning & Neural Networks",
             "Computer Vision & NLP",
-            "Embedded Systems & IoT",
             "Data Science & Analytics",
         ]
-        self.current_focus = ["Generative AI", "LLM Fine-tuning", "Edge AI", "Robotics"]
+        self.current_focus = ["Deep Learning", "LLM Fine-tuning", "Gen AI", "ASR"]
         self.philosophy = "True mastery is demonstrated by the ability to teach."
     
     def say_hi(self):
@@ -56,7 +55,6 @@ me.say_hi()
 | **Kaggle Expert** | Dataset and Notebook Expert | [✓ Verified](https://www.kaggle.com/sanjidh090) |
 | **Google Maps Level 7 Local Guide** | 1,000+ contributions preserving digital heritage | [✓ Verified](https://maps.google.com/localguides/profile) |
 | **Former Research Assistant @ Hackules Inc.** | Computer Vision Research | [✓ Verified](https://hackules.com/) |
-| **Open Source Contributor** | Facebook Research (fairseq2), Omnilingual ASR | [✓ Verified](https://github.com/Sanjidh090) |
 | **Team Frozen Voltage - Founder** | Leading multidisciplinary tech team at KUET | [✓ Verified](https://github.com/Sanjidh090) |
 
 </div>
@@ -69,15 +67,15 @@ me.say_hi()
 <summary><b>🏅 National & International Datathons (Click to expand)</b></summary>
 <br/>
 
-| 🏆 Competition | 👥 Team | 🥇 Rank | 📈 Metrics | 📅 Year |
+| 🏆 Competition | 👥 Team | 🥇 Rank | Place/Fest | 📅 Year |
 |:--------------|:--------|:--------|:-----------|:--------|
-| **First Byte Datathon 2025** | Team Frozen Voltage | **8th Place** | Nationwide Competition | 2025 |
-| **NWU CSE Fest Datathon** | Team Maverics | **4th Place** | 92% Cohen Kappa | 2025 |
+| **BUET CSE FEST** |Team Villagers | **2nd runner up & Dataset Award** | DL Sprint 4.0 | 2026
+| **First Byte Datathon 2025** | Team Frozen Voltage | **8th Place** | Intra KUET Competition | 2025 |
+| **NWU CSE Fest Datathon** | Team Maverics | **4th Place** | National Competition | 2025 |
 | **CUET CSE FEST 2025** | Team Envisage | **Top 60** | 80% F1 Score (Political Meme Detection) | 2025 |
-| **Shobdotori Competition** | Team Maverics | **Top Performer** | 84% Score (Dialect Translation - ASR) | 2025 |
-| **AgriYield 2025** | Solo | **Active** | Crop Yield Prediction (Soil + Weather) | 2025 |
-| **SciBlitz 1.0** | Team Frozen Voltage | **Presented** | Biomarker-Responsive BAMs | 2024 |
-| **Legends of Logic** | Team Frozen Voltage | **3rd & 5th** | Math History Chronicles | 2024 |
+| ** CUET ETE TELEVERSE 2025 ** | Team Maverics | Top 40 | Shobdotori Competition | 2025 |
+| **AgriYield 2025** | Solo | **3rd** | Crop Yield Prediction (Soil + Weather) | 2025 |
+| **Legends of Logic** | Team Frozen Voltage | **3rd & 5th** | Math History Chronicles | 2025 |
 
 </details>
 
@@ -118,11 +116,9 @@ me.say_hi()
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 🤖 Specialized AI Domains
-- **Generative AI**: LLM Fine-tuning, Prompt Engineering, "Girlfriend AI" Project
+- **Generative AI**: LLM Fine-tuning, Prompt Engineering.
 - **Computer Vision**: CNNs, Style Transfer, Object Detection
-- **NLP**: Transformers, BERT, Whisper ASR, Omni ASR
-- **Reinforcement Learning**: HVAC Optimization, Control Theory Integration
-- **Edge AI**: Model Optimization for Resource-Constrained Devices
+- **NLP**: Transformers, BERT, Whisper ASR, Omni ASR , Lipighor Dataset
 
 </div>
 
@@ -174,6 +170,7 @@ me.say_hi()
 - 📜 Full certification portfolio in `/certificates`
 
 ### 📄 Publications & Datasets
+
 - **Bangladesh News Dataset** - [Kaggle](https://www.kaggle.com/sanjidh090) + [ResearchGate](https://www.researchgate.net)
 - **KUET Whispers Dataset** - Facebook Analytics
 - **BUETIAN RAPSODY Dataset** - Social Media Mining
