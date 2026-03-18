@@ -170,7 +170,7 @@ me.say_hi()
 - 📜 Full certification portfolio in `/certificates`
 
 ### 📄 Publications & Datasets
-
+_ **Lioighor-882-bn-sstt** [huggingface](https://huggingface.co/datasets/Sanjidh090/Lipi-Ghor-bn-882-SSTT/)
 - **Bangladesh News Dataset** - [Kaggle](https://www.kaggle.com/sanjidh090) + [ResearchGate](https://www.researchgate.net)
 - **KUET Whispers Dataset** - Facebook Analytics
 - **BUETIAN RAPSODY Dataset** - Social Media Mining
@@ -246,48 +246,6 @@ Regular contributions on AI/ML, data science, embedded systems, and engineering 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 Open Source Contributions
-
-<div align="center">
-
-```
-"Not merely present, but verified and active across every major technical platform"
-```
-
-</div>
-
-### 🔥 Notable Contributions
-
-<table>
-<tr>
-<td width="50%">
-
-#### Facebook Research - Omnilingual ASR
-**Repository**: `facebookresearch/omnilingual-asr`  
-**Contribution**: Fixed CUDA-compatible fairseq2 installation  
-**Impact**: Improved GPU compatibility for NLP research
-
-🔗 [View Pull Request](https://github.com/facebookresearch/omnilingual-asr/pulls)
-
-</td>
-<td width="50%">
-
-#### AI Engineering Hub
-**Repository**: `patchy631/ai-engineering-hub`  
-**Contribution**: Active issue reporting & testing  
-**Impact**: Quality assurance and community feedback
-
-🔗 [View Issues](https://github.com/Sanjidh090)
-
-</td>
-</tr>
-</table>
-
-### 📦 Shared Resources
-- **Model Artifacts**: `gbm_model_advanced.pkl` - Serialized models for production inference
-- **Fine-tuned Models**: "Girlfriend AI" LLM fine-tuning project (Weights & Biases)
-- **Datasets**: Multiple public datasets on Kaggle for community use
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Team Frozen Voltage - Collaborative Leadership
@@ -307,7 +265,6 @@ A multidisciplinary tech-focused student group at KUET, pushing boundaries acros
 - 🤖 **Robotics & Hardware**: Line Following Robot with custom PCB design
 - 🧬 **Biomedical Engineering**: Adaptive BAMs (Bioresorbable Acoustic Microrobots)
 - 📊 **Data Science**: National datathon competitions (Top 10 finishes)
-- 📚 **Education**: "Unfrozen School" video series for public science communication
 - 📖 **Math & Literature**: Award-winning technical writing
 
 </td>
@@ -478,13 +435,13 @@ Capturing photos of businesses and locations before they disappear. From quiet c
 
 </div>
 
-### 🎯 Current Focus (2025)
+### 🎯 Current Focus (2026)
 ```javascript
 const currentFocus = {
     learning: ["Generative AI", "LLM Fine-tuning", "Vision Transformers", "Reinforcement Learning"],
-    building: ["Edge AI Applications", "Robotics Projects", "Cyber-Physical Systems"],
+    building: ["Bengali ASR Datasets", "Electronics Projects", "Cyber-Physical Systems"],
     contributing: ["Open Source", "Technical Writing", "Community Education"],
-    exploring: ["AgriTech Solutions", "Embedded AI", "Real-time Systems"]
+    exploring: ["Buisness Solutions", "Embedded AI", "Real-time Systems"]
 };
 ```
 
@@ -493,7 +450,7 @@ Despite objective excellence (Top 10 Datathon finisher, Kaggle Expert and Benchm
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 2025 Goals & Vision
+## 📈 2026 Goals & Vision
 
 <table>
 <tr>
@@ -539,7 +496,6 @@ Despite objective excellence (Top 10 Datathon finisher, Kaggle Expert and Benchm
 ```
 🎓 EEE major who codes better than most CS majors
 📚 "I love reading everything from books to tissue papers!"
-🤖 Built a "Girlfriend AI" because why not?
 🗺️ Preserving digital heritage one Google Maps photo at a time
 🔧 Can design a PCB and train a neural network in the same day
 ⚡ Frozen Voltage - because even ice can conduct electricity
@@ -573,6 +529,6 @@ Despite objective excellence (Top 10 Datathon finisher, Kaggle Expert and Benchm
 
 **Made with ❤️ and ☕ by Sanjid Hasan**
 
-*Last Updated: January 2025*
+*Last Updated: March 2026*
 
 </div>
