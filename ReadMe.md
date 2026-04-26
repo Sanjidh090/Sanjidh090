@@ -59,8 +59,8 @@ me.say_hi()
 |:------------------------------------|:-------------------------------------------------------------------------------------|
 |📄 **arXiv Published Researcher**     |*Make It Hard to Hear, Easy to Learn* — Long-Form Bengali ASR & Diarization (Feb 2026)|
 |🏅 **Kaggle Expert**                  |Notebook Expert + Dataset Expert                                                      |
-|🗺️ **Google Maps Level 7 Local Guide**|1,000+ contributions · Digital heritage preservation                                  |
-|🔬 **Former Research Assistant**      |Computer Vision @ Hackules Inc.                                                       |
+|🗺️ **Google Maps Level 7 Local Guide**|1,000+ contributions                                   |
+|🔬 **Former Research Assistant**      |Generative Computer Vision @ Hackules Inc.                                                       |
 |⚡ **Team Frozen Voltage — Founder**  |Active multidisciplinary tech team @ KUET                                             |
 
 </div>
