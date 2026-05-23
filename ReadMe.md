@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=SANJID+HASAN" alt="Sanjid Hasan" />
 
@@ -284,4 +284,4 @@ const focus2026 = {
 
 **Made with ❤️ and ☕ by Sanjid Hasan · Last Updated: March 2026**
 
-</div>
+</div> -->
