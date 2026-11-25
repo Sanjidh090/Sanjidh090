@@ -138,21 +138,7 @@ Training on heavily degraded audio beats adding more data. Pipeline runs at ~0.0
 
 ---
 
-## 📊 Stats
 
-<div align="center">
-
-<!-- Dark mode stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=4ADE80&text_color=C9D1D9&ring_color=4ADE80" height="160" alt="GitHub Stats" #gh-dark-mode-only>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjidh090&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4ADE80&fire=22C55E&currStreakLabel=4ADE80&sideLabels=86EFAC" height="160" alt="Streak" #gh-dark-mode-only>
-
-<!-- Light mode stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjidh090&show_icons=true&theme=default&hide_border=true&title_color=15803D&icon_color=15803D&ring_color=15803D" height="160" alt="GitHub Stats" #gh-light-mode-only>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjidh090&theme=default&hide_border=true&ring=15803D&fire=16A34A&currStreakLabel=15803D&sideLabels=166534" height="160" alt="Streak" #gh-light-mode-only>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
