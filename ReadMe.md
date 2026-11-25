@@ -89,20 +89,6 @@ Training on heavily degraded audio beats adding more data. Pipeline runs at ~0.0
 </div>
 
 
----
-
-## 🛠 Stack
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,linux,git,latex,vscode&theme=dark">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,git,latex,vscode&theme=light" alt="Tech Stack">
-</picture>
-
-</div>
-
----
 
 ## ✍️ Technical Writing
 
