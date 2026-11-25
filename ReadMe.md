@@ -18,17 +18,16 @@
 
 ## 👋 Hey, I'm Sanjid
 
-EEE undergrad at KUET, graduating October 2027. I work on making speech recognition small enough to run on the devices people actually have — no cloud, no GPU required.
+EEE undergrad at KUET, Self taught AI Researcher . I work on making speech recognition small enough to run on the devices people actually have — no cloud, no GPU required.
 
-My current obsession: **Bangla ASR**. 230 million speakers, chronically underserved by mainstream systems. I'm fixing that one paper at a time.
+My current obsession: **Bangla ASR**. 300 million speakers, chronically underserved by mainstream systems. I'm fixing that one paper at a time.
 
 - 🔬 Founding member of **KMinds**, KUET's student AI research community
 - ⚡ Founder of **Team Frozen Voltage** — AI and project building at KUET
-- 🏢 Former Research Assistant — Generative Computer Vision @ **Hackules Inc.**
-- 🗺️ Google Maps **Level 7 Local Guide** (1,000+ contributions in Khulna)
-- 🏆 Kaggle **Datasets Expert**
+- 🏢 Former Research Assistant — **Hackules Inc.**
+- 🗺️ Google Maps **Level 7 Local Guide** 
+- 🏆 Kaggle **Datasets & Notebooks Expert**
 
-> *"I view my Maps profile as a digital archive — preserving the vibes and cultures of places that have been removed or closed. These photos become relics on maps, memories that would otherwise be lost to time."*
 
 ---
 
@@ -66,7 +65,7 @@ Training on heavily degraded audio beats adding more data. Pipeline runs at ~0.0
 
 | Project | Type | Link |
 |---------|------|------|
-| `moonshine-base-bn` | 🤗 Bangla edge ASR model (1.43M clips) | [HuggingFace](https://huggingface.co/Sanjidh090/moonshine-base-bn) |
+| `moonshine-base-bn` | 🤗 Bangla edge ASR model | [HuggingFace](https://huggingface.co/Sanjidh090/moonshine-base-bn) |
 | `Lipi-Ghor` | 📊 882h Bengali speech dataset, CC BY 4.0 | [HuggingFace](https://huggingface.co/datasets/Sanjidh090/Lipi-Ghor-bn-882-SSTT) |
 | `Low-cost ECG Monitor` | 📡 Hardware + Streamlit dashboard | [GitHub](https://github.com/Sanjidh090/Low-cost-ECG-Monitoring) |
 | `DL Sprint 4.0 Solution` | 🏆 2nd runner-up + Dataset Prize, BUET | [GitHub](https://github.com/Sanjidh090/DL_Sprint_4.0_Solution) |
@@ -89,7 +88,6 @@ Training on heavily degraded audio beats adding more data. Pipeline runs at ~0.0
 
 </div>
 
-> 💡 AgriYield 3rd place was a solo submission — no team, no shortcuts.
 
 ---
 
@@ -135,7 +133,6 @@ Training on heavily degraded audio beats adding more data. Pipeline runs at ~0.0
 ## 🎓 Certifications
 
 - ✅ **AI Agents Intensive Course** — Google (2025)
-- ✅ **AIML Workshop** — INDcon 2025 @ MIST
 - ✅ **Python** — Kaggle Learn
 - ✅ **Intro to Machine Learning** — Kaggle Learn
 
